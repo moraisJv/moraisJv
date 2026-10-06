@@ -29,4 +29,8 @@
     <a href="mailto:1337isher3@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor="fff alt="Email" /></a>
   </div>
 
+  <hr>
+
+  <p>'1337 is here...'</p>
+
 

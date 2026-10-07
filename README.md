@@ -1,7 +1,7 @@
 # Olá, sou o moraisJv
 
 
-🎓 Estudante de Informática para Internet na ETEC Uirapuru (1º ano MTEC).<br>
+🎓 Estudante de Informática para Internet na ETEC Uirapuru (1º ano M-TEC).<br>
 💻 Aprendendo desenvolvimento web, programação e banco de dados.<br>
 🌐 |HTML | CSS | MySQL |<br>
 

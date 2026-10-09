@@ -12,9 +12,7 @@
 
   <hr>
 
-  <p align="left"> <a href="https://www.linkedin.com/in/joão--morais/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
-
-  <a href="mailto:vitjoao2077@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /> </a> </p>
+  <p align="left"> <a href="https://www.linkedin.com/in/joão--morais/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>      <a href="mailto:vitjoao2077@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /> </a> </p>
 
 ## Tecnologias e conhecimentos
 

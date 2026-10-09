@@ -20,6 +20,13 @@
  linguagens: Javascript, java, HTML, CSS <br>
  BataBase: MySQL <br>
  
+<hr>
+
+## Idiomas 
+- Ingles (intermediario A1/B1)
+- Português (nativo, Fluente)
+  
+<hr>
 
 ## 📊 GitHub Stats
 

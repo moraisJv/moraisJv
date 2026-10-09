@@ -17,8 +17,9 @@
 ## Tecnologias e conhecimentos
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql" alt="HTML, CSS, Java, JavaScript e MySQL" /> </p>
-
----
+ linguagens: Javascript, java, HTML, CSS 
+ BataBase: MySQL 
+ 
 
 ## 📊 GitHub Stats
 

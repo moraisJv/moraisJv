@@ -4,11 +4,11 @@
 ---
 ## 👨‍💻 Sobre mim
 
- 🎓 Estudante de TI na ETEC
- 🌐 Estudando desenvolvimento web
- 🗄️ Aprendendo banco de dados e lógica de programação
- 🧠 Interessado em Ciência da Computação e desenvolvimento de software
- 🎯 Buscando evoluir por meio de projetos e novos conhecimentos
+- 🎓 Estudante de TI na ETEC
+- 🌐 Estudando desenvolvimento web
+- 🗄️ Aprendendo banco de dados e lógica de programação
+- 🧠 Interessado em Ciência da Computação e desenvolvimento de software
+- 🎯 Buscando evoluir por meio de projetos e novos conhecimentos
 
   <hr>
 

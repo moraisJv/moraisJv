@@ -16,7 +16,16 @@
 
 ## Tecnologias e conhecimentos
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql" alt="HTML, CSS, Java, JavaScript e MySQL" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45"/>
+  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="45"/>
+</p>
+
+</p>
  linguagens: Javascript, java, HTML, CSS <br>
  BataBase: MySQL <br>
  

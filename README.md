@@ -15,16 +15,22 @@
   <p align="left"> <a href="https://www.linkedin.com/in/joão--morais/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>      <a href="mailto:vitjoao2077@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /> </a> </p>
 
 ## Tecnologias e conhecimentos
+html
+<h2>💻 Tecnologias</h2>
+
+
+<h3>🛠️ Language and Tools</h3>
+
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45"/>
-  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="45"/>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" title="Ruby"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle"/></code>
 </p>
-
 </p>
  linguagens: Javascript, java, HTML, CSS <br>
  BataBase: MySQL <br>

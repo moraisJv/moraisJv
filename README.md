@@ -5,7 +5,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de TI na ETEC
-- 🌐 Estudando | HTML | CSS | MySQL | 
+- 🌐 Estudando | HTML | CSS | MySQL | Oracle | JAVA | Python | Ruby | 
 - 🗄️ Aprendendo lógica de programação
 - 🧠 Interessado em Ciência da Computação e desenvolvimento de software
 - 🎯 Buscando evoluir por meio de projetos e novos conhecimentos
@@ -17,7 +17,7 @@
 <h2>💻 Tecnologias</h2>
 
 
-<h3>🛠️ Language and Tools</h3>
+<h3> Language and Tools</h3>
 
 
 <p align="left">
@@ -28,9 +28,12 @@
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" title="Ruby"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub"/></code>
 </p>
+
 </p>
- linguagens: python, java, ruby, HTML, CSS <br>
+ linguagens: python, java, ruby, HTML, CSS, Git e GitHub <br>
  BataBase: MySQL e oracle <br>
  
 <hr>

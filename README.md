@@ -14,8 +14,6 @@
 
   <p align="left"> <a href="https://www.linkedin.com/in/joão--morais/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>      <a href="mailto:vitjoao2077@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /> </a> </p>
 
-## Tecnologias e conhecimentos
-html
 <h2>💻 Tecnologias</h2>
 
 
@@ -32,8 +30,8 @@ html
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle"/></code>
 </p>
 </p>
- linguagens: Javascript, java, HTML, CSS <br>
- BataBase: MySQL <br>
+ linguagens: python, java, ruby, HTML, CSS <br>
+ BataBase: MySQL e oracle <br>
  
 <hr>
 

@@ -4,7 +4,7 @@
 ---
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de TI na ETEC
+- 🎓 Estudante de DS  1º ano (M-Tec) na ETEC
 - 🌐 Estudando | HTML | CSS | MySQL | Oracle | JAVA | Python | Ruby | 
 - 🗄️ Aprendendo lógica de programação
 - 🧠 Interessado em Ciência da Computação e desenvolvimento de software

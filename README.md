@@ -46,11 +46,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
-  
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=moraisJv&theme=tokyonight&show_icons=true&hide_border=false" alt="Estatísticas do GitHub" /> 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=tokyonight&hide_border=false" alt="Streak do GitHub" />
+</p>
+ 
 <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=tokyonight&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
 </p>
+
+
 
 <hr>
 <p align="center">

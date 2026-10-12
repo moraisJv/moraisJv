@@ -45,13 +45,9 @@
 <hr>
 
 ## 📊 GitHub Stats
-
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=moraisJv&theme=tokyonight&show_icons=true&hide_border=false" alt="Estatísticas do GitHub" /> 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=tokyonight&hide_border=false" alt="Streak do GitHub" />
-</p>
- 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=tokyonight&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
+<p>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=radical&hide_border=false" alt="Streak do GitHub" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=radical&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
 </p>
 
 

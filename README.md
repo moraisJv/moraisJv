@@ -47,7 +47,7 @@
 ## 📊 GitHub Stats
 <p>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=radical&hide_border=false" alt="Streak do GitHub" />
-
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=radical&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
 </p>
 
 

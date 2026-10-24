@@ -39,7 +39,7 @@
 <hr>
 
 ## Idiomas 
-- Ingles (intermediario B1/B2)
+- Inglês intermediário (B1/B2)
 - Português (nativo, Fluente)
   
 <hr>

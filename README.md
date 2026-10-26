@@ -35,24 +35,18 @@
     alt="Símbolo de programação girando"
   />
 </p>
+
 ## GitHub Stats
-<p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=github_dark&hide_border=false" alt="Streak do GitHub" />
+<div class box= "center">
+<img align="center" 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=github_dark&hide_border=false" alt="Streak do GitHub" />
 <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&theme=github_dark&hide_border=false&hide_title=true&rank_icon=github&card_width=400"
-    alt="Estatísticas do GitHub"
-  />
-</p>
-<div >
-
-<div align="right">
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=github_dark&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
+    alt="Estatísticas do GitHub" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=github_dark&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
 </div>
 
 <hr>
-
-
-
 
 <h3> Language and Tools</h3>
 
@@ -73,7 +67,6 @@
  BataBase: MySQL e oracle <br>
 </p>
 <hr>
-
-  
+<p align="center">
   1337 is here...
 </p>

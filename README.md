@@ -1,54 +1,19 @@
 
----
 ## 👨‍💻 About me 
 
-- Hi my name is joão
-- I'm ETEC student, and I always learing, creating and exploring new  technologies.
-  <hr>
-  
-<h3 align="center">Connect With Me</h3>
+- Hi 👋 I'm joão Morais, I from Brazil 
+- ETEC student 26/28
+- always learing, creating and exploring new  technologies
+- 
 
-<p align="center">
-  <a href="https://github.com/moraisJv">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/joão--morais/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:vitjoao2077@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
-</p>
-<hr>
 
 ## Idiomas 
 - Inglês intermediário (B1/B2)
 - Português (nativo, Fluente)
-
+- 
+<h3 align="center">
+  Language and Tools</h3>
 <hr>
-<p align="center">
-  <img
-    src="./assets/code_symbol_rotating.gif"
-    width="120"
-    alt="Símbolo de programação girando"
-  />
-</p>
-
-## GitHub Stats
-<div class box= "center">
-<img align="center" 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=github_dark&hide_border=false" alt="Streak do GitHub" />
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&theme=github_dark&hide_border=false&hide_title=true&rank_icon=github&card_width=400"
-    alt="Estatísticas do GitHub" />
-<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=github_dark&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
-</div>
-
-<hr>
-
-<h3> Language and Tools</h3>
 
 
 <p align="center">
@@ -65,6 +30,49 @@
 <p align="center">
  linguagens: python, java, ruby, HTML, CSS, Git e GitHub <br>
  BataBase: MySQL e oracle <br>
+</p>
+
+
+<p align="center">
+  <img
+    src="./assets/code_symbol_rotating.gif"
+    width="120"
+    alt="Símbolo de programação girando"
+  />
+</p>
+
+
+<h3 align="center">
+ <stronger> GitHub Stat </stronger> </h3>
+ 
+ <hr>
+ 
+<div class box= "center">
+<img align="center" 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=github_dark&hide_border=false" alt="Streak do GitHub" />
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&theme=github_dark&hide_border=false&hide_title=true&rank_icon=github&card_width=400"
+    alt="Estatísticas do GitHub" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=github_dark&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
+</div>
+
+<hr>
+
+
+<h3 align="center">Connect With Me</h3>
+
+<p align="center">
+  <a href="https://github.com/moraisJv">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/joão--morais/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:vitjoao2077@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  </a>
 </p>
 <hr>
 <p align="center">

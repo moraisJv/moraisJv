@@ -45,7 +45,7 @@
 </p>
 <div >
 
-<div align="center">
+<div align="right">
 <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=github_dark&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
 </div>
 

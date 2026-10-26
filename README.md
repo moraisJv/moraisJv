@@ -46,13 +46,13 @@
 </p>
 ## GitHub Stats
 <p>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=github_dark&hide_border=false" alt="Streak do GitHub" />
-<img
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=github_dark&hide_border=false" alt="Streak do GitHub" />
+<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&theme=github_dark&hide_border=false&hide_title=true&rank_icon=github&card_width=400"
     alt="Estatísticas do GitHub"
   />
 </p>
-<div align="center">
+<div >
 
 <div align="center">
 <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=github_dark&layout=compact&hide_border=false" alt="Linguagens mais usadas" />

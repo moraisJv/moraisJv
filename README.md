@@ -1,12 +1,3 @@
-<div align="center">
-
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=moraisjv&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103386103%3Fu%3D436438b1678d66ea926eca59cae47d9378887cf5%26v%3D4&variant=living-identity&label=Jo%C3%A3o%20MoraisJv&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=moraisJv&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103386103%3Fu%3D436438b1678d66ea926eca59cae47d9378887cf5%26v%3D4&variant=living-identity&label=Jo%C3%A3o%20Morais&v=wow-living-identity-1&mode=dark" width="100%" alt="João Morais animated Living Identity portrait and ASCII name" />
-</picture>
-
-</div>
 
 ---
 ## 👨‍💻 About me 

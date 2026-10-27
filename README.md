@@ -4,13 +4,11 @@
 - Hi 👋 I'm joão Morais, I from Brazil 
 - ETEC student 26/28
 - always learing, creating and exploring new  technologies
-- 
-
 
 ## Idiomas 
 - Inglês intermediário (B1/B2)
 - Português (nativo, Fluente)
-- 
+
 <h3 align="center">
   Language and Tools</h3>
 <hr>

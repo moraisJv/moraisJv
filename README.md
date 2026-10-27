@@ -44,16 +44,23 @@
  <stronger> GitHub Stat </stronger> </h3>
  
  <hr>
- 
-<div class box= "center">
-<img align="center" 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=github_dark&hide_border=false" alt="Streak do GitHub" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&bg_color=000000&title_color=E879F9&text_color=C084FC&icon_color=D946EF&border_color=7E22CE&hide_border=false"
+    height="180"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&bg_color=000000&title_color=E879F9&text_color=C084FC&border_color=7E22CE&hide_border=false"
+    height="180"
+    alt="Linguagens mais usadas"
+  />
+  
 <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&theme=github_dark&hide_border=false&hide_title=true&rank_icon=github&card_width=400"
+    src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&bg_color=000000&title_color=E879F9&text_color=C084FC&icon_color=D946EF&border_color=7E22CE&hide_border=false&hide_title=true&rank_icon=github&card_width=400"
     alt="Estatísticas do GitHub" />
-<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moraisJv&theme=github_dark&layout=compact&hide_border=false" alt="Linguagens mais usadas" />
-</div>
-
+</p>
+  
 <hr>
 
 

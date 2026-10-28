@@ -11,18 +11,18 @@
 
 
 
-<img
+<img  align="left"
   src="https://streak-stats.demolab.com?user=moraisJv&background=000000&ring=D946EF&fire=E879F9&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=E879F9&sideNums=C084FC&dates=9CA3AF&border=7E22CE"
   height="180"
   alt="Sequência de contribuições"
 />
-<img
+<img  align="right"
   src="https://github-stats-extended.vercel.app/api?username=moraisJv&show_icons=true&bg_color=000000&title_color=E879F9&text_color=C084FC&icon_color=D946EF&border_color=7E22CE&hide_border=false&hide_title=true&rank_icon=github&card_width=400"
   alt="Estatísticas e ranking do GitHub"
   width="400"
 />
 
-  <img
+  <img   align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&bg_color=000000&title_color=E879F9&text_color=C084FC&border_color=7E22CE&hide_border=false"
     height="180"
     alt="Linguagens mais usadas"
@@ -33,8 +33,6 @@
 
 <h3 align="center">
   Language and Tools</h3>
-
-
 
 <p align="center">
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/></code>
@@ -54,7 +52,7 @@
  BataBase: MySQL e oracle <br>
 </p>
 
-
+<hr>
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">

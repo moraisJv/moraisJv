@@ -29,8 +29,8 @@
   />
 
 
-<hr>
 
+<table
 <h3 align="center">
   Language and Tools</h3>
 
@@ -51,7 +51,7 @@
  linguagens: python, java, ruby, HTML, CSS, Git e GitHub <br>
  BataBase: MySQL e oracle <br>
 </p>
-
+></table>
 <hr>
 <h3 align="center">Connect With Me</h3>
 

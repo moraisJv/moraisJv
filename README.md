@@ -44,25 +44,28 @@
  <stronger> GitHub Stat </stronger> </h3>
  
  <hr>
-<p align="center">
+<p align="right">
   <img
     src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&bg_color=000000&title_color=E879F9&text_color=C084FC&icon_color=D946EF&border_color=7E22CE&hide_border=false"
     height="180"
     alt="Estatísticas do GitHub"
   />
+</p>
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&bg_color=000000&title_color=E879F9&text_color=C084FC&icon_color=D946EF&border_color=7E22CE&hide_border=false&hide_title=true&rank_icon=github&card_width=400"
+    alt="Estatísticas do GitHub" 
+    />
+</p>
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&bg_color=000000&title_color=E879F9&text_color=C084FC&border_color=7E22CE&hide_border=false"
     height="180"
     alt="Linguagens mais usadas"
   />
-  
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&bg_color=000000&title_color=E879F9&text_color=C084FC&icon_color=D946EF&border_color=7E22CE&hide_border=false&hide_title=true&rank_icon=github&card_width=400"
-    alt="Estatísticas do GitHub" />
 </p>
-  
-<hr>
 
+<hr>
 
 <h3 align="center">Connect With Me</h3>
 

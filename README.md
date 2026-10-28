@@ -9,7 +9,7 @@
 - Português (nativo, Fluente)
   <hr>
 
-<div class="box" align="center">
+
 
 <img
   src="https://streak-stats.demolab.com?user=moraisJv&background=000000&ring=D946EF&fire=E879F9&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=E879F9&sideNums=C084FC&dates=9CA3AF&border=7E22CE"
@@ -27,7 +27,7 @@
     height="180"
     alt="Linguagens mais usadas"
   />
-</div>
+
 
 <hr>
 

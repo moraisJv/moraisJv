@@ -3,32 +3,32 @@
 - Hi I'm joão Morais, I from Brazil 
 - ETEC student 26/28
 - always learing, creating and exploring new  technologies
+ 
+<h3 align="center">Connect With Me</h3>
 
+<p align="center">
+  <a href="https://github.com/moraisJv">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/joão--morais/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:vitjoao2077@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  
 ## Idiomas 
 - Inglês intermediário (B1/B2)
 - Português (nativo, Fluente)
   <hr>
 
-
-
-<img  
-  src="https://streak-stats.demolab.com?user=moraisJv&background=000000&ring=D946EF&fire=E879F9&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=E879F9&sideNums=C084FC&dates=9CA3AF&border=7E22CE"
-  height="180"
-  alt="Sequência de contribuições"
-/>
-
-
-  <img   
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&bg_color=000000&title_color=E879F9&text_color=C084FC&border_color=7E22CE&hide_border=false"
-    height="180"
-    alt="Linguagens mais usadas"
-  />
-
-
-
-<hr>
 <h3 align="center">
-  Language and Tools</h3>
+ Language and Tools</h3>
 
 <p align="center">
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/></code>
@@ -48,23 +48,23 @@
  BataBase: MySQL e oracle <br>
 </p>
 
-<hr>
-<h3 align="center">Connect With Me</h3>
+<div class="box"  align="center">
+  
+ <img   align="left"
+  src="https://streak-stats.demolab.com?user=moraisJv&background=000000&ring=D946EF&fire=E879F9&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=E879F9&sideNums=C084FC&dates=9CA3AF&border=7E22CE"
+  height="180"
+  alt="Sequência de contribuições"/>
 
-<p align="center">
-  <a href="https://github.com/moraisJv">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&bg_color=000000&title_color=E879F9&text_color=C084FC&icon_color=D946EF&border_color=7E22CE&hide_border=false&rank_icon=github&hide_title=true"
+  height="180"
+  alt="Estatísticas e ranking"
+/>
 
-  <a href="https://www.linkedin.com/in/joão--morais/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
+  <img   align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&bg_color=000000&title_color=E879F9&text_color=C084FC&border_color=7E22CE&hide_border=false"
+    height="180"
+    alt="Linguagens mais usadas"/>
 
-  <a href="mailto:vitjoao2077@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  1337 is here...
-</p>

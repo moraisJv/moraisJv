@@ -4,32 +4,29 @@
 - ETEC student 26/28
 - always learing, creating and exploring new  technologies
  
-<h3 align="center">Connect With Me</h3>
-
-<p align="center">
-  <a href="https://github.com/moraisJv">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/joão--morais/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:vitjoao2077@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
-</p>
 
 <p align="center">
   
 ## Idiomas 
 - Inglês intermediário (B1/B2)
 - Português (nativo, Fluente)
-  <hr>
+ 
+
+<h3 align="center">GitHub Stat</h3>
+<hr>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=github_dark&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&theme=github_dark" alt="Top Langs" />
+</p>
 
 <h3 align="center">
  Language and Tools</h3>
-
+<hr>
 <p align="center">
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/></code>
@@ -48,23 +45,23 @@
  BataBase: MySQL e oracle <br>
 </p>
 
-<div class="box"  align="center">
+
+
+<h3 align="center">Connect With Me</h3>
+<hr>
+<p align="center">
+  <a href="https://github.com/moraisJv">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/joão--morais/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:vitjoao2077@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
   
- <img   align="left"
-  src="https://streak-stats.demolab.com?user=moraisJv&background=000000&ring=D946EF&fire=E879F9&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=E879F9&sideNums=C084FC&dates=9CA3AF&border=7E22CE"
-  height="180"
-  alt="Sequência de contribuições"/>
- <img   align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&bg_color=000000&title_color=E879F9&text_color=C084FC&border_color=7E22CE&hide_border=false"
-    height="180"
-    alt="Linguagens mais usadas"/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&bg_color=000000&title_color=E879F9&text_color=C084FC&icon_color=D946EF&border_color=7E22CE&hide_border=false&rank_icon=github&hide_title=true"
-  height="180"
-  alt="Estatísticas e ranking"
-/>
-
-
-</div>
-

@@ -3,47 +3,10 @@
 - Hi I'm joão Morais, I from Brazil 
 - ETEC student 26/28
 - always learing, creating and exploring new  technologies
- 
-
-<p align="center">
-  
-## Idiomas 
-- Inglês intermediário (B1/B2)
-- Português (nativo, Fluente)
- 
-
-<h3 align="center">GitHub Stat</h3>
-<hr>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisJv&theme=github_dark&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00" alt="GitHub Streak" />
-</p>
+- linguagens mosts used for me: python, java, ruby, HTML, CSS, javascipt
+- Babatase used for me  : MySQL e Oracle 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&theme=github_dark" alt="Top Langs" />
-</p>
-
-<h3 align="center">
- Language and Tools</h3>
-<hr>
-<p align="center">
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" title="Ruby"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code>
-
-</p>
-<p align="center">
- linguagens: python, java, ruby, HTML, CSS, Git e GitHub <br>
- BataBase: MySQL e oracle <br>
-</p>
 
 
 

@@ -54,6 +54,10 @@
   src="https://streak-stats.demolab.com?user=moraisJv&background=000000&ring=D946EF&fire=E879F9&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=E879F9&sideNums=C084FC&dates=9CA3AF&border=7E22CE"
   height="180"
   alt="Sequência de contribuições"/>
+ <img   align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&bg_color=000000&title_color=E879F9&text_color=C084FC&border_color=7E22CE&hide_border=false"
+    height="180"
+    alt="Linguagens mais usadas"/>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=moraisJv&show_icons=true&bg_color=000000&title_color=E879F9&text_color=C084FC&icon_color=D946EF&border_color=7E22CE&hide_border=false&rank_icon=github&hide_title=true"
@@ -61,10 +65,6 @@
   alt="Estatísticas e ranking"
 />
 
-  <img   align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisJv&layout=compact&bg_color=000000&title_color=E879F9&text_color=C084FC&border_color=7E22CE&hide_border=false"
-    height="180"
-    alt="Linguagens mais usadas"/>
 
 </div>
 

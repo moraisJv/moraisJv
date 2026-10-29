@@ -13,18 +13,21 @@
 <h3 align="center">Connect With Me</h3>
 <hr>
 <p align="center">
-  <a href="https://github.com/moraisJv">
+  
+ - <a href="https://github.com/moraisJv">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/joão--morais/">
+  - <a href="https://www.linkedin.com/in/joão--morais/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:vitjoao2077@gmail.com">
+  - <a href="mailto:vitjoao2077@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
   </a>
 </p>
 
-<p align="center">
-  
+
+  <table>
+    
+  </table>

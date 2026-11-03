@@ -10,8 +10,7 @@
 
 
 
-<h3 align="center">Connect With Me</h3>
-<hr>
+## Connect With Me 
 <p align="center">
 
  
